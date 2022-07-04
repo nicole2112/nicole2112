@@ -59,3 +59,7 @@ I am a Computer Science student :computer: from Honduras.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nicole2112&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicole2112&show_icons=true&theme=vision-friendly-dark&hide=prs,issues,contribs&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicole2112&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
