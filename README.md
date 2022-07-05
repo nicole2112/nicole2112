@@ -20,7 +20,8 @@
 
 ### :woman_technologist: About Me :
 
-I am a web developer and Computer Science student :computer: from Honduras.
+I'm a web developer and Computer Science student :computer: from Honduras.
+
 <!--
 - 🔭 I’m currently working on various projects as a developer, while finishing my professional career.
 - 🌱 I’m currently learning about AI and ML.
@@ -28,9 +29,9 @@ I am a web developer and Computer Science student :computer: from Honduras.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Love to challenge myself and practice logical skills.
-
 -->
 
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
