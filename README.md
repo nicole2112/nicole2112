@@ -7,7 +7,9 @@
     </a>
   </div>
   
+  <!--
   <img src="https://komarev.com/ghpvc/?username=nicole2112&style=flat-square&color=blue" alt=""/>
+  -->
   
   <h1>
     Hi there
