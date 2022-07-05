@@ -17,11 +17,11 @@
   </h1>
 </div>
 
-<!--
+
 ### :woman_technologist: About Me :
 
-I am a Computer Science student :computer: from Honduras.
-
+I am a web developer and Computer Science student :computer: from Honduras.
+<!--
 - 🔭 I’m currently working on various projects as a developer, while finishing my professional career.
 - 🌱 I’m currently learning about AI and ML.
 - 💬 Ask me about ...
