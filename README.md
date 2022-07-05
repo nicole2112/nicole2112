@@ -15,11 +15,10 @@
   </h1>
 </div>
 
+<!--
 ### :woman_technologist: About Me :
 
 I am a Computer Science student :computer: from Honduras.
-
-<!--
 
 - 🔭 I’m currently working on various projects as a developer, while finishing my professional career.
 - 🌱 I’m currently learning about AI and ML.
@@ -30,7 +29,6 @@ I am a Computer Science student :computer: from Honduras.
 
 -->
 
----
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
