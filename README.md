@@ -20,7 +20,7 @@
 
 ### :woman_technologist: About Me :
 
-I'm a web developer and Computer Science student :computer: from Honduras.
+I'm a software developer and Computer Systems Engineer :computer:
 
 <!--
 - 🔭 I’m currently working on various projects as a developer, while finishing my professional career.
