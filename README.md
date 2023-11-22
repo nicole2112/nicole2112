@@ -32,7 +32,7 @@ I'm a software developer and Computer Systems Engineer :computer:
 -->
 
 ---
-### :hammer_and_wrench: Technologies worked on :
+### :hammer_and_wrench: Technologies :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title=".NET Framework"  alt=".NET Framework" width="40" height="40"/>&nbsp;
